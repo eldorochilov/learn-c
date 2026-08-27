@@ -1,4 +1,5 @@
 #include <stdio.h>
+// standart kuyubhonani ulaymiz
 
 int main() {
     printf("Hello World!");

@@ -51,7 +51,7 @@ c-ogrenish/
 1. Repositoryni klonlang:
    ```bash
    git clone https://github.com/foydalanuvchi-nomi/c-ogrenish.git
-   cd c-ogrenish
+   cd learn-c
    ```
 
 2. GCC kompilyatorini o'rnating (agar hali o'rnatilmagan bo'lsa):

@@ -9,8 +9,8 @@ C tilida **funksiyalar** (functions) mavzusini chuqur o'rganish uchun o'quv loyi
 | 1 | Funksiya prototipi (deklaratsiya) vs ta'rif (definitsiya) | 1-qism |
 | 2 | `void` funksiya — parametrsiz, qiymat qaytarmaydi | 2-qism |
 | 3 | Qiymat qaytaruvchi funksiya (`return`) | 3-qism |
-| 4 | **Pass by value** — parametrlar qanday nusxalanadi | 4-qism |
-| 5 | Pointer orqali **pass by reference** simulyatsiyasi (swap misoli) | 5-qism |
+| 4 | **qiymat buyicha qaytarish** — parametrlar qanday nusxalanadi | 4-qism |
+| 5 | Pointer orqali **havola buyicha uzatish** simulyatsiyasi (swap misoli) | 5-qism |
 | 6 | **Rekursiya** va bazaviy holat (faktorial misoli) | 6-qism |
 | 7 | `static` funksiya — ko'rinish doirasini faylga cheklash | 7-qism |
 | 8 | **Funksiya pointerlari** — dispatch jadvali (kalkulyator misoli) | 8-qism |
@@ -25,14 +25,14 @@ Har bir bo'limda, siz o'rganayotgan ARM64 assembly bilan bog'liq qisqacha eslatm
 ## Kompilyatsiya va ishga tushirish
 
 ```bash
-gcc funksiyalar.c -o dastur -Wall -Wextra
+gcc full_funktions.c -o dastur -Wall -Wextra
 ./dastur
 ```
 
 yoki Termux/ARM64 muhitida `clang` bilan:
 
 ```bash
-clang funksiyalar.c -o dastur -Wall -Wextra
+clang full_functions.c -o dastur -Wall -Wextra
 ./dastur
 ```
 

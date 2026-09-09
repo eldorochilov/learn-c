@@ -25,7 +25,7 @@ Har bir bo'limda, siz o'rganayotgan ARM64 assembly bilan bog'liq qisqacha eslatm
 ## Kompilyatsiya va ishga tushirish
 
 ```bash
-gcc full_funktions.c -o dastur -Wall -Wextra
+gcc full_functions.c -o dastur -Wall -Wextra
 ./dastur
 ```
 

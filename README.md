@@ -30,7 +30,7 @@ ta'minlangan.
 ## 🗂 Repository tuzilishi
 
 ```
-c-ogrenish/
+learn-c/
 ├── 01-asoslar/              # O'zgaruvchilar, turlar, operatorlar
 ├── 02-boshqaruv-tuzilmalari/ # if/else, switch, for, while, do-while
 ├── 03-funksiyalar/          # Funksiya turlari, rekursiya, pointerlar

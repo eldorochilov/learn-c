@@ -50,7 +50,7 @@ c-ogrenish/
 
 1. Repositoryni klonlang:
    ```bash
-   git clone https://github.com/foydalanuvchi-nomi/c-ogrenish.git
+   git clone https://github.com/eldorochilov/learn-c.git
    cd learn-c
    ```
 
